@@ -1,4 +1,4 @@
-# 📖 Tugas Kelas Industri Pertemuan Kedua
+# 📖 Tugas Kelas Industri
 ## 📄 Soal yang harus dikerjakan :
 > Menginstal nodeJS pada komputer
 
